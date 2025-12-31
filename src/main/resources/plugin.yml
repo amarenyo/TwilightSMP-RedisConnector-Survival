@@ -1,4 +1,4 @@
-name: redisconnector
+name: redisconnector_survival
 version: '0.2.0'
 main: ch.amarenyo.redisconnector.RedisConnector
 api-version: '1.21'
